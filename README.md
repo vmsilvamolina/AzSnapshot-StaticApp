@@ -1,0 +1,1 @@
+# AzSnapshot-StaticApp
